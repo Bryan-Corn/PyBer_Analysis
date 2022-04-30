@@ -47,7 +47,7 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 
 ![imgae](analysis/PyBer_5.png "fare_dates_df.resample")
 
-• An annotated chart showing the total fares by city type is created and saved to the "analysis" folder. (10 pt)
+• An annotated chart showing the total fares by city type is created and saved to the "analysis" folder:
 
 ![image](analysis/PyBer_6.png "Total Fare By City plot")
 
