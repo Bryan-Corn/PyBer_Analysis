@@ -25,7 +25,7 @@ You will earn a perfect score for Deliverable 1 by completing all requirements b
 
 The code and output for the PyBer Summary DataFrame is below:
 
-![image](....PyBer_1.png "pyber_summary_df"
+![image](analysis/PyBer_1.png "pyber_summary_df")
 
 ## Deliverable 2: A multiple-line chart of total fares for each city type
 
@@ -33,23 +33,23 @@ You will earn a perfect score for Deliverable 2 by completing all requirements b
 
 • A DataFrame was created using the groupby() function on the "type" and "date" columns, and the sum() method is applied on the "fare" column to show the total fare amount for each date and time:
 
-![image](....PyBer_2.png "far_by_city_date_df")
+![image](analysis/PyBer_2.png "far_by_city_date_df")
 
 • A DataFrame was created using the pivot() function where the index is the "date," the columns are the city "type," and the values are the "fare":
 
-![image](...PyBer_3.png "fare_by_city_date_df.pivot")
+![image](analysis/PyBer_3.png "fare_by_city_date_df.pivot")
 
 • A DataFrame was created using the loc method on the date range: 2019-01-01 through 2019-04-28:
 
-![image](...PyBer_4.png "fare_dates_df")
+![image](analysis/PyBer_4.png "fare_dates_df")
 
 • A DataFrame was created using the resample() function in weekly bins and shows the sum of the fares for each week:
 
-![imgae](...PyBer_5.png "fare_dates_df.resample"
+![imgae](analysis/PyBer_5.png "fare_dates_df.resample")
 
 • An annotated chart showing the total fares by city type is created and saved to the "analysis" folder. (10 pt)
 
-![image](...PyBer_6.png "Total Fare By City plot"
+![image](analysis/PyBer_6.png "Total Fare By City plot")
 
 ## Deliverable 3: A written report for the PyBer analysis
 
