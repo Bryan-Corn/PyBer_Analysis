@@ -68,11 +68,11 @@ Clearly, the Urban cities utilize ride-sharing services far more frequently than
 
 Next, let's look at the variance of the distribution of rides, fares, and drivers grouped by city types:
 
-![image](Fig2.png "Ride Count Box/Whisker")
+![image](analysis/Fig2.png "Ride Count Box/Whisker")
 
-![image](Fig3.png "Fare Box/Whisker")
+![image](analysis/Fig3.png "Fare Box/Whisker")
 
-![image](Fig4.png "Driver Count Box/Whisker")
+![image](analysis/Fig4.png "Driver Count Box/Whisker")
 
 These charts show that Urban cities have much more variation in number of rides and drivers while Suburban cities have greater variance in the number of drivers and rides than Rural cities. The Ride Count box/whisker chart for Urban cities identifies a single outlier that has not been removed from additional calculations.
 
@@ -83,11 +83,11 @@ Variance in the number of drivers and rides in Rural cities is relatively very s
 
 Looking at the distribution of Rides, Fares, and Drivers between city types shows that Urban cities clearly get the lion's share of services while Rural cities get a small fraction of each:
 
-![image](Fig6.png "% of total Rides")
+![image](analysis/Fig6.png "% of total Rides")
 
-![image](Fig7.png "% of Total Drivers")
+![image](analysis/Fig7.png "% of Total Drivers")
 
-![image](Fig8.png "% of Total Fares")
+![image](analysis/Fig8.png "% of Total Fares")
 
 Note that Rural cities have the fewest Drivers but utilize them to provide a larger proprtion of rides and an even larger share of the fares. 
 
